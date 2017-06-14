@@ -2,7 +2,7 @@
 
 # System Setup script #
 
-Packege install:
+Package install:
 - net-tools
 - links
 - telnet
